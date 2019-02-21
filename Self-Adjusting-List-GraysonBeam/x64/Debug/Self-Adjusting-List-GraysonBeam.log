@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\grayson beam\appdata\local\temp\linked-list-array-master\linked-list-array-master\linked-list-array\self-adjusting-list-graysonbeam\linked_list.h(228): error C2804: binary 'operator <<' has too many parameters
+  c:\users\grayson beam\appdata\local\temp\linked-list-array-master\linked-list-array-master\linked-list-array\self-adjusting-list-graysonbeam\linked_list.h(514): note: see reference to class template instantiation 'the_boot::linked_list<T>' being compiled
+c:\users\grayson beam\appdata\local\temp\linked-list-array-master\linked-list-array-master\linked-list-array\self-adjusting-list-graysonbeam\linked_list.h(228): error C2333: 'the_boot::linked_list<T>::operator <<': error in function declaration; skipping function body
+c:\users\grayson beam\appdata\local\temp\linked-list-array-master\linked-list-array-master\linked-list-array\self-adjusting-list-graysonbeam\linked_list.h(228): error C2333: 'the_boot::linked_list<int>::operator <<': error in function declaration; skipping function body
